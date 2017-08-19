@@ -1,9 +1,9 @@
 {
-    "name": "angular-seed",
+    "name": "angular-gero",
     "private": true,
     "version": "0.0.0",
-    "description": "A starter project for AngularJS",
-    "repository": "https://github.com/angular/angular-seed",
+    "description": "Proyecto de prueba para aprender angularjs",
+    "repository": "https://github.com/GeroBlacksmith/angular-js-testing-01",
     "license": "MIT",
     "devDependencies": {
         "bower": "^1.7.7",
